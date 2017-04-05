@@ -11,6 +11,15 @@
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Detecting overly strong preconditions in refactoring engines</title>
+      <link>/gustavoasoares.github.io/publication/tse_2017/</link>
+      <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/tse_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Syntactic Program Transformations from Examples</title>
       <link>/gustavoasoares.github.io/publication/icse_2017/</link>
       <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
