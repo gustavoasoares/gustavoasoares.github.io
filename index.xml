@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Gustavo Soares</copyright>
-    <lastBuildDate>Sat, 20 Apr 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 12:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On the Fly Synthesis of Edit Suggestions</title>
+      <link>/gustavoasoares.github.io/publication/oopsla_2019/</link>
+      <pubDate>Mon, 20 May 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/oopsla_2019/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Evaluating Feedback Tools in Introductory Programming Classes</title>
@@ -16,16 +26,6 @@
       <pubDate>Sat, 20 Apr 2019 12:00:00 +0000</pubDate>
       
       <guid>/gustavoasoares.github.io/publication/fie_2019/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the Fly Synthesis of Edit Suggestions</title>
-      <link>/gustavoasoares.github.io/publication/oopsla_2019/</link>
-      <pubDate>Sat, 20 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>/gustavoasoares.github.io/publication/oopsla_2019/</guid>
       <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
